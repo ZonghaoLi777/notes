@@ -35,8 +35,8 @@ export default defineConfig({
     search: {
       provider: 'algolia',
       options: {
-        appId: 'OFN60WLTSV',
-        apiKey: 'aae3e87abc84ce87b3df8ce8d30e80cd',
+        appId: 'EON5JZZJPG',
+        apiKey: '970d81b805031e3b6ff528dab38197b7',
         indexName: 'notes',
         locales: {
           zh: {
